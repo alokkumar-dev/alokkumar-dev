@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alok</h1>
-<h3 align="center">A passionate full stack web developer from Uttar Pradesh India</h3>
+<h3 align="center">A passionate full stack web developer at Masai School</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Reac***
 
-- 👯 I’m looking to collaborate on [uniqlo-clone](https://uniqlo-clone.netlify.app/)
+- 👯 I’m looking to collaborate on **Reat**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **HTML CSS JS React**
 
 - 📫 How to reach me **alokshakaya2601@gmail.com**
 
