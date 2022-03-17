@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **HTML CSS JS React**
 
 - 📫 How to reach me **alokshakaya2601@gmail.com**
 
