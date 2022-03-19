@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **react**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at https://portfolio-site-ashen.vercel.app/
 
 - 💬 Ask me about **HTML CSS JS React**
 
