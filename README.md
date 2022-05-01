@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **react**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [portfolio link](https://portfolio-site-ashen.vercel.app/)
 
 - 💬 Ask me about **HTML CSS JavaScript react and redux**
 
 - 📫 How to reach me **alokshakaya2601@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cK8_bJ2_OF1MFqG1URW93QTM7RrwkJQgYk9c-6_DHho/edit?usp=sharing](https://docs.google.com/document/d/1cK8_bJ2_OF1MFqG1URW93QTM7RrwkJQgYk9c-6_DHho/edit?usp=sharing)
+- 📄 Know about my experiences [resume link](https://docs.google.com/document/d/1cK8_bJ2_OF1MFqG1URW93QTM7RrwkJQgYk9c-6_DHho/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
