@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alokshakaya2601@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://docs.google.com/document/d/1cK8_bJ2_OF1MFqG1URW93QTM7RrwkJQgYk9c-6_DHho/edit?usp=sharing)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1jdSJXnOcDybFPzbbDDdDai_cg4oQGxqr/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
