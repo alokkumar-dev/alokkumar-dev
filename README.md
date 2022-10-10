@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alokkumar_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alokkumar_dev?logo=twitter&style=for-the-badge" alt="alokkumar_dev" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **next.js**
 
 - 👯 I’m looking to collaborate on **react**
 
