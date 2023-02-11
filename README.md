@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alokkumar_dev" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/twitter.png" alt="alokkumar_dev" /></a>
-<a href="https://linkedin.com/in/alokkumar-dev" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="alokkumar-dev" /></a>
-<a href="https://fb.com/facebook_username" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/facebook.png" alt="facebook_username" /></a>
-<a href="https://instagram.com/instagram_username" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="instagram_username" /></a>
+<a href="https://twitter.com/alokkumar_dev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/twitter.png" alt="alokkumar_dev" /></a>
+<a href="https://linkedin.com/in/alokkumar-dev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="alokkumar-dev" /></a>
+<a href="https://www.facebook.com/profile.php?id=100047654323640" target="_blank"><img align="center" src="https://img.icons8.com/color/48/null/facebook.png" alt="facebook_username" /></a>
+<a href="https://www.instagram.com/alokkumar__dev/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="alokkumar__dev" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
