@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alokkumar_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokkumar_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alokkumar-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokkumar-dev" height="30" width="40" /></a>
-<a href="https://fb.com/facebook_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook_username" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_username" height="30" width="40" /></a>
+<a href="https://twitter.com/alokkumar_dev" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/twitter.png" alt="alokkumar_dev" /></a>
+<a href="https://linkedin.com/in/alokkumar-dev" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="alokkumar-dev" /></a>
+<a href="https://fb.com/facebook_username" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/facebook.png" alt="facebook_username" /></a>
+<a href="https://instagram.com/instagram_username" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="instagram_username" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
