@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 👯 Collaborating on **MERN Stakc**
+- 👯 Collaborating on **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [portfolio link](https://portfolio-site-ashen.vercel.app/)
 - 
