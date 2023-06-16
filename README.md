@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok</h1>
-<h3 align="center">I'm a Software Engineer at Codebrik Solutions LLP Ahmedabad Gujarat, India .</h3>
+<h3 align="center">In Ahmedabad, Gujarat, India, I work as a Software Engineer for Codebrik Solutions LLP. </h3>
+<h4 align="center">Basically, I'm from Firozabad Uttar Pradesh.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkumar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alokkumar-dev" /> </p>
 
@@ -9,12 +10,10 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 👯 I’m looking to collaborate on **react**
+- 👯 Collaborating on **MERN Stakc**
 
 - 👨‍💻 All of my projects are available at [portfolio link](https://portfolio-site-ashen.vercel.app/)
-
-- 💬 Ask me about **HTML CSS JavaScript react and redux**
-
+- 
 - 📫 How to reach me **alokshakaya2601@gmail.com**
 
 - 📄 Know about my experiences [resume link](https://drive.google.com/file/d/14p9rnC-yJ8WMeO2hXqz80cn11WugbWs6/view?usp=sharing)
