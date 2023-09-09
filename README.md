@@ -12,7 +12,7 @@
 
 - 👯 Collaborating on **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [portfolio link](https://portfolio-site-ashen.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio link](https://alokkumar-dev.vercel.app/)
 - 
 - 📫 How to reach me **alokshakaya2601@gmail.com**
 
