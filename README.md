@@ -11,11 +11,7 @@
 
 - 👯 Collaborating on **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [portfolio link](https://alokkumar-dev.vercel.app/)
-- 
 - 📫 How to reach me **alokshakaya2601@gmail.com**
-
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/14p9rnC-yJ8WMeO2hXqz80cn11WugbWs6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
